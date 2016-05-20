@@ -16,5 +16,5 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         geckowebid
     </author>
-    <plugin name="phonegap-googlemaps-plugin-master" />
+    <plugin name="cordova-plugin-googlemaps" />
 </widget>
